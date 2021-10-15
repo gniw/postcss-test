@@ -1,0 +1,23 @@
+/* initial */
+.example_1 {
+  padding: 10px;
+  padding-left: initial;
+}
+
+/* inherit */
+.example_2 {
+  padding: 10px;
+  padding-left: inherit;
+}
+
+/* unset */
+.example_3 {
+  padding: 10px;
+  padding-left: unset;
+}
+
+/* revert */
+.example_4 {
+  padding: 10px;
+  padding-left: revert;
+}
